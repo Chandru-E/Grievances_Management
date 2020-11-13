@@ -8,10 +8,10 @@ Flutter Application to post the queries and give intimation about some daily iss
 
 
 
-<img src ="images/problem.jpg" height = "500" width = "350">        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;          &nbsp;&nbsp;&nbsp;         <img src ="images/cam.jpg" height = "500" width = "350">
+<img src ="images/cam.jpg" height = "500" width = "350">        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;          &nbsp;&nbsp;&nbsp;         <img src ="images/problem.jpg" height = "500" width = "350">
 
 
 
 
 
-<img src ="images/recent_problems.jpg" height = "500" width = "350">        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;         <img src ="images/cal.jpg" height = "500" width = "350">
+<img src ="images/cal.jpg" height = "500" width = "350">        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;         <img src ="images/recent_problems.jpg" height = "500" width = "350">
